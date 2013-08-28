@@ -1,0 +1,28 @@
+{
+  "name": "node-seed-sync",
+  "description": "node.js CLI to sync a remote seed to the local server",
+  "author": "malixsys",
+  "version": "0.0.1",
+  "main": "./bin/node-seed-sync.js",
+  "bin": "./bin/node-seed-sync.js",
+  "repository": "git://github.com/malixsys/node-seed-sync",
+  "homepage": "https://github.com/malixsys/node-seed-sync",
+  "bugs": {
+    "url": "http://github.com/malixsys/node-seed-sync/issues"
+  },
+  "keywords": [
+    "node",
+    "seed",
+    "sync"
+  ],
+  "tags": [
+    "node",
+    "seed",
+    "sync"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "blessed": ">= 0.0.19",
+    "coffee-script-redux": "~2.0.0-beta6"
+  }
+}
